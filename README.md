@@ -7,8 +7,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjswns041797)](https://solved.ac/dnjswns041797)
 
 ## 🛠️ Language
-* **Primary**: Python 3 (또는 본인 주력 언어)
-* **Secondary**: Java, C++ (해당할 경우 작성, 없으면 삭제)
+* **Primary**: Java
+* **Secondary**: python
 
 ## 📁 Directory Structure
 백준허브(BaekjoonHub)에 의해 다음과 같은 구조로 문제와 코드가 자동 저장됩니다.
@@ -17,7 +17,7 @@
 /
 ├── 백준/
 │   ├── [플래티넘 5] 문제이름 - 문제번호/
-│   │   ├── 문제이름.py
+│   │   ├── 문제이름.java
 │   │   └── README.md (문제 설명 부분)
 │   ├── [골드 1] 문제이름 - 문제번호/
 │   └── ...
